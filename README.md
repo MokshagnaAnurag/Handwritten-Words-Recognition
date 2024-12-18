@@ -1,14 +1,9 @@
-Here’s the updated README to match the visual style you want with bold headers, clear icons, and a modern layout similar to the reference image:
-
----
-
 # **Handwritten Words Recognition Using CNN** ✍️🧠
 
 ![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![NUMPY](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white) 
-![JUPYTER](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white) 
 ![TENSORFLOW](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![KERAS](https://img.shields.io/badge/KERAS-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
 
 ---
 
